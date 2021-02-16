@@ -1,3 +1,4 @@
 ipython-sql
 jupyter-lsp
+jupyter_client
 python-language-server[all]
