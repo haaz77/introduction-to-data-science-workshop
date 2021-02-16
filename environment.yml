@@ -16,6 +16,5 @@ dependencies:
   - python=3.8
   - jupyterlab=2.2
   - jupyterlab-git=0.21
-  - jupyter_client=6.1.11
   - scipy=1.5
   - xeus-python=0.8
